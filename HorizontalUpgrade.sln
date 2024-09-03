@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib.Reference", "MyLib.Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "MyApp\MyApp.csproj", "{75120E87-EBF4-43E4-B57A-F21F420312CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationBoot", "ApplicationBoot\ApplicationBoot.csproj", "{D3D93EFA-3CA8-4DD8-9571-DA456FE03DD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{75120E87-EBF4-43E4-B57A-F21F420312CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75120E87-EBF4-43E4-B57A-F21F420312CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75120E87-EBF4-43E4-B57A-F21F420312CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D93EFA-3CA8-4DD8-9571-DA456FE03DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D93EFA-3CA8-4DD8-9571-DA456FE03DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D93EFA-3CA8-4DD8-9571-DA456FE03DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D93EFA-3CA8-4DD8-9571-DA456FE03DD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
